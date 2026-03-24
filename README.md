@@ -1,1 +1,1 @@
-# Reconstructing-Ancient-Urban-Layouts-from-Historical-Text-with-Graph-Generative-Models
+# Document-Driven Reconstruction of Ancient City Layouts: A Constraint-Aware Generative Framework from Historical Texts
